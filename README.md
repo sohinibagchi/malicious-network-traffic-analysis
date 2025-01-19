@@ -5,7 +5,7 @@ With the rise in sophisticated cyberattacks, the efficiency of intrusion detecti
 
 To run the provided code, first download the Train_data.csv and Test_data.csv files located in the NSL-KDD Dataset folder.
 
-Each of the files located in the Code folder can be accessed in any order using Google Colaboratory. Before running a file, upload the Train_data.csv and Test_data.csv files to the session storage.
+Each of the code files can be accessed in any order using Google Colaboratory. Before running a file, upload the Train_data.csv and Test_data.csv files to the session storage.
 
 A description of each python file is listed below.
 
